@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yaymurly
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning cyber security
+- 👀 I’m interested in mechanical design and addative manufacturing.
+- 🌱 I’m currently learning ansys and matlab.
 - 📫 How to reach me: yagmurdinc2006@gmail.com
-- ⚡ Fun fact: ıf you play tennis find me:)
+- ⚡ Fun fact: ıf you play tennis please find me:)
   
 <!---
 yaymurly/yaymurly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
